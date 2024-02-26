@@ -1,0 +1,1 @@
+trainDF['code'].values.tolist() 获得所有的code，并以list的形式打印
